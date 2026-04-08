@@ -6,7 +6,7 @@ An interactive web app to explore different careers in the data field — includ
 
 ## 🔗 Live Demo
 
-👉 https://github.com/adityasonardata/Data-Career-Map/blob/main/index.html
+👉 https://adityasonardata.github.io/Data-Career-Map/
 
 ---
 
